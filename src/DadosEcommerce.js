@@ -16,7 +16,7 @@ export const totalEcommerceAnualPorCategoria = {
         { "name": "Other merchandise²", "value": 52893 },        
         { "name": "Nonmerchandise receipts³", "value": 26374 }        
     ],
-	"2014*": [
+	"2014": [
         { "name": "Total Electronic Shopping", "value": 256269 },
         { "name": "Books and magazines", "value": 10828 },
         { "name": "Clothing and clothing accessories", "value": 46830 },
@@ -33,7 +33,7 @@ export const totalEcommerceAnualPorCategoria = {
         { "name": "Other merchandise²", "value": 41543 },        
         { "name": "Nonmerchandise receipts³", "value": 22317 }        
     ],
-	"2013*": [
+	"2013": [
         { "name": "Total Electronic Shopping", "value": 221587 },
         { "name": "Books and magazines", "value": 10249 },
         { "name": "Clothing and clothing accessories", "value": 40198 },
@@ -50,7 +50,7 @@ export const totalEcommerceAnualPorCategoria = {
         { "name": "Other merchandise²", "value": 34491 },        
         { "name": "Nonmerchandise receipts³", "value": 17721 }        
     ],
-	"2012*": [
+	"2012": [
         { "name": "Total Electronic Shopping", "value": 195477 },
         { "name": "Books and magazines", "value": 9778 },
         { "name": "Clothing and clothing accessories", "value": 33614 },
@@ -67,7 +67,7 @@ export const totalEcommerceAnualPorCategoria = {
         { "name": "Other merchandise²", "value": 30045 },        
         { "name": "Nonmerchandise receipts³", "value": 16052 }        
     ],
-	"2011*": [
+	"2011": [
         { "name": "Total Electronic Shopping", "value": 168919 },
         { "name": "Books and magazines", "value": 8773 },
         { "name": "Clothing and clothing accessories", "value": 28196 },
@@ -84,7 +84,7 @@ export const totalEcommerceAnualPorCategoria = {
         { "name": "Other merchandise²", "value": 25491 },        
         { "name": "Nonmerchandise receipts³", "value": 13617 }        
     ],
-	"2010*": [
+	"2010": [
         { "name": "Total Electronic Shopping", "value": 143000 },
         { "name": "Books and magazines", "value": 7428 },
         { "name": "Clothing and clothing accessories", "value": 23480 },
